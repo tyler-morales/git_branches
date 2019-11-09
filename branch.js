@@ -1,1 +1,1 @@
-console.log('on on branch 2')
+console.log('Hello master, I\'m the first branch')
