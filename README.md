@@ -7,3 +7,9 @@
 - delete a branch (never merged): `git branch -D <branch name>`
 - delete a branch (already merged): `git branch -d <branch name>`
 - merge a branch (must be in master): `git merge <branch name>`
+
+## steps
+ 1. create a new branch
+ 2. pull from master
+ 3. push to master
+ 4. merge in master
