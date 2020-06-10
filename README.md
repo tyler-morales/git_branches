@@ -11,5 +11,6 @@
 ## steps
  1. create a new branch
  2. pull from master
+  - Start commiting to new branch
  3. push to master
  4. merge in master
